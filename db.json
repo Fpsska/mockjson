@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "",
+      "name": "Chair",
+      "model": "Sakarias Armchair",
+      "rating": 5,
+      "price": 392
+    },
+    {
+      "id": 2,
+      "image": "",
+      "name": "Chair",
+      "model": "Baltsar Chair",
+      "rating": 5,
+      "price": 299
+    },
+    {
+      "id": 3,
+      "image": "",
+      "name": "Chair",
+      "model": "Anjay Chair",
+      "rating": 2,
+      "price": 519
+    },
+    {
+      "id": 4,
+      "image": "",
+      "name": "Chair",
+      "model": "Nyantuy Chair",
+      "rating": 3,
+      "price": 921
+    }
+  ]
+}
