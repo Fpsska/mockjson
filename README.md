@@ -1,4 +1,4 @@
-### Fake data for *[Furniture-Landing](https://github.com/Fpsska/Furniture-Landing)* project
+### Full fake REST API for quick back-end for prototyping and mocking 
 ##
 
 ###### _hosted by_
