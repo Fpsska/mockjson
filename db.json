@@ -27,10 +27,58 @@
     {
       "id": 4,
       "image": "",
-      "name": "Chair",
-      "model": "Nyantuy Chair",
-      "rating": 3,
-      "price": 921
+      "name": "Sofa",
+      "model": "Morabo",
+      "rating": 4,
+      "price": 1249
+    },
+    {
+      "id": 5,
+      "image": "",
+      "name": "Sofa",
+      "model": "Klippan",
+      "rating": 5,
+      "price": 499
+    },
+    {
+      "id": 6,
+      "image": "",
+      "name": "Lamp",
+      "model": "Nollpunkt",
+      "rating": 5,
+      "price": 1499
+    },
+    {
+      "id": 7,
+      "image": "",
+      "name": "Lamp",
+      "model": "Nollpunkt",
+      "rating": 5,
+      "price": 1499
+    },
+    {
+      "id": 8,
+      "image": "",
+      "name": "Lamp",
+      "model": "Hektar",
+      "rating": 5,
+      "price": 1999
+    },
+    {
+      "id": 9,
+      "image": "",
+      "name": "Beds",
+      "model": "Hemnes",
+      "rating": 5,
+      "price": 2499
+    },
+    {
+      "id": 10,
+      "image": "",
+      "name": "Beds",
+      "model": "Kleppstad",
+      "rating": 5,
+      "price": 2999
     }
   ]
 }
