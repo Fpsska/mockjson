@@ -1,5 +1,5 @@
 {
-  "furnitureLandingDB": {
+    "furnitureLandingDB": {
         "products": [
             {
                 "id": 1,
@@ -133,7 +133,7 @@
                 "id": 12,
                 "value": "21:50(из B в A)"
             },
-             {
+            {
                 "id": 13,
                 "value": "21:55(из B в A)"
             }
@@ -150,6 +150,55 @@
             {
                 "id": 3,
                 "value": "из A в B и обратно в A"
+            }
+        ]
+    },
+    "ilsDB": {
+        "requestsData": [
+            {
+                "id": 1,
+                "coords": {
+                    "lat_start": 59.84660399,
+                    "lng_start": 30.29496392,
+                    "lat_end": 59.82934196,
+                    "lng_end": 30.42423701
+                }
+            },
+            {
+                "id": 2,
+                "coords": {
+                    "lat_start": 59.82934196,
+                    "lng_start": 30.42423701,
+                    "lat_end": 59.82761295,
+                    "lng_end": 30.41705607
+                }
+            },
+            {
+                "id": 3,
+                "coords": {
+                    "lat_start": 59.83567701,
+                    "lng_start": 30.38064206,
+                    "lat_end": 59.84660399,
+                    "lng_end": 30.29496392
+                }
+            },
+            {
+                "id": 4,
+                "coords": {
+                    "lat_start": 59.34660399,
+                    "lng_start": 30.29496392,
+                    "lat_end": 59.82761295,
+                    "lng_end": 30.41705607
+                }
+            },
+            {
+                "id": 5,
+                "coords": {
+                    "lat_start": 59.83567701,
+                    "lng_start": 30.38064206,
+                    "lat_end": 59.84660399,
+                    "lng_end": 30.29496392
+                }
             }
         ]
     }
