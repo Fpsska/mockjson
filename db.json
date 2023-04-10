@@ -202,5 +202,191 @@
             }
         ]
     },
-    "helloBrandDB": {}
+    "h2oDB": {
+        "usersData": [
+            {
+                "title": "№",
+                "dataIndex": "serialNumber",
+                "width": 50
+            },
+            {
+                "title": "Имя сотрудника",
+                "dataIndex": "name",
+                "key": "name",
+                "width": 230,
+                "sorted": "YES"
+            },
+            {
+                "title": "Основная информация",
+                "children": [
+                    {
+                        "title": "ID номер",
+                        "dataIndex": "id",
+                        "key": "id",
+                        "width": 150
+                    },
+                    {
+                        "title": "Телефона",
+                        "dataIndex": "phone",
+                        "key": "phone",
+                        "width": 120
+                    },
+                    {
+                        "title": "Пол",
+                        "dataIndex": "gender",
+                        "key": "gender",
+                        "sorted": "YES",
+                        "width": 100
+                    },
+                    {
+                        "title": "Дата рождения",
+                        "dataIndex": "birthday",
+                        "key": "birthday",
+                        "width": 140
+                    },
+                    {
+                        "title": "Метро",
+                        "dataIndex": "subway",
+                        "key": "subway",
+                        "sorted": "YES",
+                        "width": 100
+                    },
+                    {
+                        "title": "Адрес проживания",
+                        "dataIndex": "address",
+                        "key": "address",
+                        "width": 170
+                    }
+                ]
+            },
+            {
+                "title": "Банковская информация",
+                "children": [
+                    {
+                        "title": "Банк",
+                        "dataIndex": "bank",
+                        "key": "bank",
+                        "width": 100
+                    },
+                    {
+                        "title": "Номер карты",
+                        "dataIndex": "cardNum",
+                        "key": "cardNum",
+                        "width": 170
+                    }
+                ]
+            },
+            {
+                "title": "Документы сотрудника",
+                "children": [
+                    {
+                        "title": "Гражданство",
+                        "dataIndex": "citizenship",
+                        "key": "citizenship",
+                        "sorted": "YES",
+                        "width": 130
+                    },
+                    {
+                        "title": "Паспорт",
+                        "dataIndex": "passport",
+                        "key": "passport",
+                        "width": 120
+                    },
+                    {
+                        "title": "Кем выдан",
+                        "dataIndex": "passportProvider",
+                        "key": "passportProvider",
+                        "width": 190
+                    },
+                    {
+                        "title": "Срок действия",
+                        "dataIndex": "validity",
+                        "key": "validity",
+                        "width": 130
+                    },
+                    {
+                        "title": "Место рождения",
+                        "dataIndex": "birthplace",
+                        "key": "birthplace",
+                        "width": 160
+                    },
+                    {
+                        "title": "Адрес прописки",
+                        "dataIndex": "residencePlace",
+                        "key": "residencePlace",
+                        "width": 190
+                    },
+                    {
+                        "title": "Патент",
+                        "dataIndex": "patent",
+                        "key": "patent",
+                        "sorted": "YES",
+                        "width": 150
+                    },
+                    {
+                        "title": "СНИЛС",
+                        "dataIndex": "SNILS",
+                        "key": "SNILS",
+                        "width": 160
+                    },
+                    {
+                        "title": "ИНН",
+                        "dataIndex": "TIL",
+                        "key": "TIL",
+                        "width": 150
+                    },
+                    {
+                        "title": "Мед.книжка",
+                        "dataIndex": "medicalBook",
+                        "key": "medicalBook",
+                        "width": 120
+                    }
+                ]
+            },
+            {
+                "title": "Информация от HR",
+                "children": [
+                    {
+                        "title": "Должность",
+                        "dataIndex": "position",
+                        "key": "position",
+                        "sorted": "YES",
+                        "width": 120
+                    },
+                    {
+                        "title": "Подразделение",
+                        "dataIndex": "subdivision",
+                        "key": "subdivision",
+                        "sorted": "YES",
+                        "width": 150
+                    },
+                    {
+                        "title": "Решение",
+                        "dataIndex": "decision",
+                        "key": "decision",
+                        "sorted": "YES",
+                        "width": 130
+                    },
+                    {
+                        "title": "Источник",
+                        "dataIndex": "sourse",
+                        "key": "sourse",
+                        "width": 130
+                    },
+                    {
+                        "title": "Дата",
+                        "dataIndex": "date",
+                        "key": "date",
+                        "width": 130
+                    },
+                    {
+                        "title": "Примечание",
+                        "dataIndex": "note",
+                        "key": "note",
+                        "width": 220
+                    }
+                ]
+            }
+        ]
+    }
 }
